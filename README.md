@@ -1,2 +1,2 @@
 # Metodo-Heuristico-Empacotamento-Retangular
-O método heurístico de empacotamento retangular bidimensional desenvolvido em minha pesquisa de mestrado.
+O método heurístico de empacotamento retangular bidimensional desenvolvido em minha pesquisa de mestrado. A dissertação de mestrado está disponível em: <https://repositorio.ufsc.br/handle/123456789/271097>
